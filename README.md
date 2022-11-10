@@ -1,4 +1,4 @@
-# Jpmmal_Calc
+# Jommal_Calc
 Jommal_ cal , حاسبة الجُمّل , Calculate Jommal of arabic words .
 ''' 
 
