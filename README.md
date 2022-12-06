@@ -1,4 +1,5 @@
 # Jommal_Calc
+#Python,TKinter.
 Jommal_ cal , حاسبة الجُمّل , Calculate Jommal of arabic words .
 ''' 
 
